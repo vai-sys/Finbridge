@@ -1,6 +1,6 @@
 # FinBridge - Fund Pooling & Crowdfunding Platform
 
-FinBridge is a **MERN stack-based** platform that enables fund pooling and crowdfunding for borrowers and investors. It allows **borrowers** to request loans, which are approved by banks before becoming available for **investors** to fund. The platform ensures security with **JWT authentication**, **KYC verification**, and integrates **payment gateways** (Razorpay & Stripe) for seamless transactions.
+FinBridge is a **MERN stack-based** platform that enables fund pooling and crowdfunding for borrowers and investors. It allows **borrowers** to request loans, which are approved by banks before becoming available for **investors** to fund. The platform ensures security with **JWT authentication**, **KYC verification** for seamless transactions.
 
 ## 🚀 Features
 - **User Roles:** Borrower & Investor
